@@ -8,7 +8,7 @@ Acesse o protótipo navegável pelo link abaixo:
 
 [Figma — TrigoTech 1.0](https://www.figma.com/proto/YjRq4B7IRijkO8zSeP8rPv/TrigoTech-1.0?node-id=60-50&p=f&t=hXIjE5JHlSa1tfi8-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=60%3A50)
 
-> **Nota:** O protótipo está configurado para iniciar no nó `60:50`. O acesso pode exigir autenticação Figma.
+> **Nota:** O protótipo está configurado para iniciar no nó. O acesso pode exigir autenticação Figma.
 
 ## Sobre o Projeto
 
